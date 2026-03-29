@@ -62,10 +62,12 @@ sentence = sentence.translate(str.maketrans('', '', string.punctuation))
 
 words = sentence.split()
 print("Number of words:", len(words))
+
 📚 Learning Outcome
 
 After understanding this program, you will learn:
-
 How to work with strings in Python
 How to convert a sentence into a list of words
 How to count elements using len()
+
+<img width="553" height="827" alt="image" src="https://github.com/user-attachments/assets/2c06a6af-ff9b-411e-be8a-6426377e1580" />
